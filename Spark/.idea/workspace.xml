@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spark:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7eff989-2fd4-4923-964f-11757996a955" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qHu2ZwS5KeBNqvnl2g9BEuSOJH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2474227" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAJava\Spark\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Spark03">
+    <configuration name="ScalaDemo01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="action.ScalaDemo01" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spark03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="day01.Spark03" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="action.Teacher" />
+      <module name="Spark" />
+      <option name="PROGRAM_PARAMETERS" value="D:\王泽菲\teacher.log 3 D:\王泽菲\output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="action.Teacher1" />
+      <module name="Spark" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://192.168.137.61:8020/teacher.log 3 hdfs://192.168.137.61:8020/output111222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="action.Teacher2" />
+      <module name="Spark" />
+      <option name="PROGRAM_PARAMETERS" value="D:\王泽菲\teacher.log 3 D:\王泽菲\output2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ScalaDemo01" />
+      <item itemvalue="Application.Teacher" />
+      <item itemvalue="Application.Teacher1" />
+      <item itemvalue="Application.Teacher2" />
+      <item itemvalue="Application.Spark03" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spark03" />
+        <item itemvalue="Application.Teacher1" />
+        <item itemvalue="Application.ScalaDemo01" />
+        <item itemvalue="Application.Teacher2" />
+        <item itemvalue="Application.Teacher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7eff989-2fd4-4923-964f-11757996a955" name="Default Changelist" comment="" />
+      <created>1616748631229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616748631229</updated>
+      <workItem from="1616748638667" duration="566000" />
+      <workItem from="1616807103034" duration="856000" />
+      <workItem from="1616808138857" duration="1534000" />
+      <workItem from="1616809693812" duration="12326000" />
+      <workItem from="1616925004135" duration="6899000" />
+      <workItem from="1616976011923" duration="14141000" />
+      <workItem from="1617017992427" duration="7486000" />
+      <workItem from="1617064029092" duration="2167000" />
+      <workItem from="1617068231899" duration="1217000" />
+      <workItem from="1617148827399" duration="1403000" />
+      <workItem from="1617205070554" duration="531000" />
+      <workItem from="1617235332636" duration="37000" />
+      <workItem from="1618106287283" duration="323000" />
+      <workItem from="1618229019978" duration="1724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
